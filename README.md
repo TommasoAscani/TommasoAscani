@@ -5,9 +5,9 @@
 
 ## 📊 Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tommaso-ascani&show_icons=true&count_private=true&theme=dark&hide_title=true&include_all_commits=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommaso-ascani&layout=compact&theme=dark&hide_title=true" height="165">
+<div height="400" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tommaso-ascani&show_icons=true&count_private=true&theme=dark&hide_title=true&include_all_commits=true" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommaso-ascani&layout=compact&theme=dark&hide_title=true" height="150">
 </div>
 
 ---
