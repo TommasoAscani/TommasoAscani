@@ -6,8 +6,8 @@
 ## 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tommaso-ascani&show_icons=true&count_private=true&theme=dark&hide_title=true&hide_title&include_all_commits=true" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommaso-ascani&layout=compact&theme=dark" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=tommaso-ascani&show_icons=true&count_private=true&theme=dark&hide_title=true&include_all_commits=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tommaso-ascani&layout=compact&theme=dark&hide_title=true" height="165">
 </div>
 
 ---
@@ -23,7 +23,7 @@
     ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
     ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
     ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-    ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+    ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
   - 💾 **Database**
   
