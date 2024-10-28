@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Tommaso Ascani
-- 🎓 Currently studying ---> **Computer Science and Engineering @ Università di Bologna**
+- 🎓 Bachelor's Degree ---- **Computer Science and Engineering @ Università di Bologna**
+- 👷‍♂️ Master's Degree ---- **Computer Science and Engineering - Intelligent Embedded Systems @ Università di Bologna**
 
 ---
 
