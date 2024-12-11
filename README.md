@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Tommaso Ascani
 - 🎓 Bachelor's Degree ---- **Computer Science and Engineering @ Università di Bologna**
-- 👷‍♂️ Master's Degree ---- **Computer Science and Engineering - Intelligent Embedded Systems @ Università di Bologna**
 
 ---
 
